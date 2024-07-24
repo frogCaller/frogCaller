@@ -1,6 +1,6 @@
 <div align="center">
   <p><strong>Hi there 👋 welcome to my GitHub! I'm Tony, a coding enthusiast who loves programming and building projects. I enjoy messing around with Raspberry Pis, crypto mining, and tinkering with robotics. </strong></p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4FBFF7&center=true&vCenter=true&width=435&lines=Hello+friend!;Check+out+my+repos!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4FBFF7&center=true&vCenter=true&width=435&lines=Hello,+friend!;Check+out+my+repos!" alt="Typing SVG" /></a>
 </div>
 
 #
