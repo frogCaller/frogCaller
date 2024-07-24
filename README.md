@@ -22,7 +22,6 @@
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
 <img align="left" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /><br />
 
-#
 <!--
 **frogCaller/frogCaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
