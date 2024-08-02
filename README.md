@@ -47,7 +47,7 @@
 |   |   |   |
 | --- | --- | --- | 
 | 💯 [Number to Words](https://github.com/frogCaller/number-to-words)<br><br /> [![image](https://raw.githubusercontent.com/frogCaller/number-to-words/main/images/num2words.gif)](https://github.com/frogCaller/number-to-words)<br><br /> Convert numbers into words. Capable of handling very large numbers, up to Millinillion! | 📝 [2.23 OLED screen](https://github.com/frogCaller/2.23inch)<br><br /> [![image](https://github.com/frogCaller/2.23inch/blob/main/images/draw.gif)](https://github.com/frogCaller/2.23inch)<br><br /> Draw, type, and display messages on the 2.23-inch OLED hat using a Raspberry Pi! <br><br />| 📈 [Crypto Price Ticker](https://github.com/frogCaller/e-ink-ticker)<br><br /> <a href="https://github.com/frogCaller/e-ink-ticker"><img src="https://github.com/frogCaller/e-ink-ticker/blob/main/images/e-ink-display.jpeg" width="500" height="auto"></a><br><br /> Display crypto prices on an e-Ink screen! |
-| 🤖 [Pwnagotchi Rover](https://github.com/frogCaller/pwnagotchi-rover)<br><br /> <a href="https://github.com/frogCaller/pwnagotchi-rover"><img src="https://github.com/frogCaller/pwnagotchi-rover/blob/main/images/pwnagotchiRover1.jpg" width="600" height="auto"></a><br><br /> Hack the world with a pwnagotchi cyber deck! | | |
+| 🤖 [Pwnagotchi Rover](https://github.com/frogCaller/pwnagotchi-rover)<br><br /> <a href="https://github.com/frogCaller/pwnagotchi-rover"><img src="https://github.com/frogCaller/pwnagotchi-rover/blob/main/images/pwnagotchiRover1.jpg" width="600" height="auto"></a><br><br /> Hack the planet with a pwnagotchi cyber deck! | | |
 <div align="center">
  <p>Visitors: </p> <img src="https://profile-counter.glitch.me/frogCaller/count.svg">
 </div>
