@@ -10,7 +10,7 @@
 
 <!--
 
----
+
 
 <p align="center">
   <img alt="Coding GIF" width="100" height="auto" src="assets/python.gif"/>
@@ -22,6 +22,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogCaller&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
 </div>
 
+---
 
 |   |   |   |
 | --- | --- | --- | 
