@@ -5,7 +5,7 @@
   <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
   </p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4FBFF7&center=true&vCenter=true&width=435&lines=Welcome!;Check+out+my+repos!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4FBFF7&center=true&vCenter=true&width=435&lines=Welcome!;Check+out+my+repos!" alt="Typing SVG" />
 </div>
 
 <!--
