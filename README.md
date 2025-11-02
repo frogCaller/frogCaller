@@ -1,6 +1,6 @@
 <div align="center">
   <p><strong>Hi there 👋 welcome to my GitHub!</p>
-  <p>I'm Tony, just a guy who enjoys coding and creating projects.</p> 
+  <p>I'm Tony and I enjoys coding and creating projects.</p> 
   <p>I enjoy messing around with Raspberry Pis, crypto mining, and tinkering with robotics. </strong></p>
   <p align="center">
   <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
