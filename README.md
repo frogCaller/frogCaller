@@ -8,19 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4FBFF7&center=true&vCenter=true&width=435&lines=Welcome!;Check+out+my+repos!" alt="Typing SVG" />
 </div>
 
-<!--
-
-
-
-
-  -->
-
-<div align="center">
-  <img align="center" alt="Coding GIF" width="100" height="auto" src="assets/python.gif"/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=frogCaller&theme=transparent" height="180em" alt="Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frogCaller&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
-</div>
-
 ---
 
 | | | |
