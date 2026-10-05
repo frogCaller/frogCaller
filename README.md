@@ -1,5 +1,4 @@
 <div align="center">
-  <p><strong>Hi there 👋 welcome to my GitHub!</p>
   <p align="center"><img src="assets/rps.svg" width="100%" alt="Rock, paper, scissors pieces battling until one team wins"></p>
 </div>
 
