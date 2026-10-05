@@ -1,11 +1,6 @@
 <div align="center">
   <p><strong>Hi there 👋 welcome to my GitHub!</p>
-  <p>I'm Tony and I enjoys coding and creating projects.</p> 
-  <p>I enjoy messing around with Raspberry Pis, crypto mining, and tinkering with robotics. </strong></p>
-  <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="assets/coding.gif"/>
-  </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4FBFF7&center=true&vCenter=true&width=435&lines=Welcome!;Check+out+my+repos!" alt="Typing SVG" />
+  <p align="center"><img src="assets/rps.svg" width="100%" alt="Rock, paper, scissors pieces battling until one team wins"></p>
 </div>
 
 ---
