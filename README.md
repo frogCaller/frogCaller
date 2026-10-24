@@ -5,8 +5,8 @@
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://github.com/frogCaller/gpi-media"><img src="https://raw.githubusercontent.com/frogCaller/gpi-media/main/docs/tv.gif" height="200" alt="gpi-media"></a><br>
-      <b>📺 <a href="https://github.com/frogCaller/gpi-media">gpi-media</a></b><br>
+      <a href="https://github.com/frogCaller/pitato"><img src="https://raw.githubusercontent.com/frogCaller/pitato/main/docs/tv.gif" height="200" alt="pitato"></a><br>
+      <b>📺 <a href="https://github.com/frogCaller/pitato">Pitato</a></b><br>
       <sub>A pocket media center for the GPi Case 2W: TV, music, radio, cameras and a local AI bot.</sub>
     </td>
     <td align="center" width="33%" valign="top">
